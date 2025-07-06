@@ -31,7 +31,7 @@ We reimplement key deep convolutional architectures using PyTorch without relyin
 - Includes Adaptive Average Pooling and Dropout
 - Normal distribution weight initialization with post-rescaling
 #### VGG16 Architecture:
-![VGG16 Architecture]("C:\Users\amart\Downloads\vgg16.png")
+![VGG16 Architecture]("vgg16.png")
 
 ### 3. DenseNet (Densely Connected Networks)
 - Uses Dense Blocks and Transition Layers
@@ -39,7 +39,7 @@ We reimplement key deep convolutional architectures using PyTorch without relyin
 - Contains BatchNorm, ReLU, Conv, and AvgPool units
 - Implements global average pooling before classification
 #### DenseNet Architecture:
-![DenseNet Architecture]("C:\Users\amart\Downloads\densenet.png")
+![DenseNet Architecture]("densenet.png")
 
 ---
 
